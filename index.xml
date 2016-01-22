@@ -6,7 +6,41 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jan 2016 10:10:28 +0300</lastBuildDate>
     <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/first/</link>
+      <pubDate>Fri, 22 Jan 2016 10:10:28 +0300</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://replace-this-with-your-hugo-site.com/about/</link>
+      <pubDate>Fri, 22 Jan 2016 10:09:24 +0300</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;a-headline:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;A headline&lt;/h2&gt;
+
+&lt;p&gt;Some Content
+Hello friend
+HIIII hsuhdrigfsuei
+fewg
+gs
+g
+dsfg
+df&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;func insertSubview(view, aboveSubview) {}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
